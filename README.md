@@ -1,7 +1,7 @@
 # Semantic_Segmentation
 Individual Project
 
-# Building Area Semantic Segmentation with DeepLabV3+
+# Building Area Semantic Segmentation using DeepLabV3+
 
 This repository contains code for performing semantic segmentation on the Massachusetts Buildings Dataset using the DeepLabV3+ architecture implemented in PyTorch. The segmentation_models_pytorch library is utilized for model implementation, and the Albumentations library is used for data augmentation.
 
