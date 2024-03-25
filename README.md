@@ -1,4 +1,4 @@
-# Semantic_Segmentation
+# Building_Segmentation
 Individual Project
 
 # Building Area Semantic Segmentation using DeepLabV3+
